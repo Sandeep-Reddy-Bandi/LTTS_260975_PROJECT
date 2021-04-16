@@ -5,6 +5,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
+int Alift=0,Blift=0,choice1,person,x=0,y=0;
  int main()
     {
     	int ch;

@@ -12,5 +12,5 @@ int check_lift();
 void AElevatorUp(int a);						
 void AElevatorDown(int a);						
 void BElevatorUp(int a);
-void BElevatorDown(int a)
+void BElevatorDown(int a);
 #endif

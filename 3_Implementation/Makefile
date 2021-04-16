@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME =Lift Management System
+PROJECT_NAME =Lift_Management_System
 
 # Output directory
 BUILD = build
