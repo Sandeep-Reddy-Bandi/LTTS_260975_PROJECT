@@ -31,5 +31,5 @@ jobs:
       - name: make test
         run: |
           make test -C 3_Implementation/
-          valgrind  ./3_Implementation/build/Lift.exe
+          valgrind  ./3_Implementation/build/Lift_Management_System.exe
 
