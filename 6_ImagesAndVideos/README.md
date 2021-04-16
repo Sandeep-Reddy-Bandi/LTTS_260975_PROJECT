@@ -1,3 +1,2 @@
-# images and videos
-
-* Add any images or Videos related to the implemented project
+# images 
+*The output Screenshorts are added as a jpg files 
